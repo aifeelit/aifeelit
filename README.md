@@ -5,7 +5,7 @@
 
 As Dedicated and Passionate `Blockchain Developer` I have strong fundamentals of blockchain technology and incredible experience in various types of networks. (`Bitcoin`, `Ethereum`, `Solana`, `Cardano`, etc). Getting involved to build `DeFi`, `DEX`, `DAO`, `WALLET`, `NFT` projects and `Marketplace` as well. Having expertise in `SUBGRAPH`, `ERC20`, `ERC721`, `ERC721A`, `ERC1155` and `BEP20` token standards. Always try and keep the pace with the brand new field and dig into cutting-edge technology concerning blockchain.
 <!-- (i.e. `Proxy` and `Cross chain bridge`, etc) -->
-<p align="right">3+ Years Blockchain &nbsp;&nbsp; | &nbsp;&nbsp; 12 Years Fullsatck Experience</p>
+<p align="right">3+ Years Blockchain &nbsp;&nbsp; | &nbsp;&nbsp; 12 Years Fullstack Experience</p>
 <!-- ## Professional Skills -->
 
 <!-- ### Languages | Frameworks, Libraries | Tools -->
